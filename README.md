@@ -12,7 +12,7 @@ A simple Cloudflare Worker that:
 - Copy and paste the Worker script from this repository.
 - Deploy it, and you can access the endpoints on your Worker's URL.
 
-#@Endpoints
+## Endpoints
 `GET /`: Returns your IP address in plaintext.
 
 Example Response:
@@ -48,6 +48,11 @@ Example Response:
 }
 ```
 
+See it in action: 
+- [WATIP.io](https://watip.io)
+- [WATIP.io/headers.json](https://watip.io/headers.json)
+- [WATIP.io/ip.json](https://watip.io/headers.json)
+
 ## Deployment
 To deploy your own instance:
 
@@ -59,8 +64,3 @@ To deploy your own instance:
 
 ## Contributing
 Feel free to fork, modify, and contribute to this project. Pull requests are welcome.
-
-
-
-
-
